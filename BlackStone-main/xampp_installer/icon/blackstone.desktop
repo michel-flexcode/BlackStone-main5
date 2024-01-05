@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=blackstone5
+Comment=blackstone5 Project
+Exec=blackstone5
+Icon=/opt/blackstone5/xampp_installer/icon/blackstone5.png
+Terminal=true
+Type=Application
